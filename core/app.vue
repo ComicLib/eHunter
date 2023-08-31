@@ -102,7 +102,6 @@ export default {
             }
         );
         await this.checkInstructions();
-        this.checkVersion();
     },
 
     computed: {
